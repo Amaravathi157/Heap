@@ -1,0 +1,9 @@
+Output:
+enter the size of heap:5
+enter the elements:
+15
+24
+64
+10
+5
+4,11,14,25,63
